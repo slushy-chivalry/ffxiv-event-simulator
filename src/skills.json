@@ -1,0 +1,56 @@
+{
+  "dancer": {
+    "1": {
+      "id": "1",
+      "name": "Cascade",
+      "minLvl": 1,
+      "type": "Weaponskill",
+      "cast": "Instant",
+      "cost": null,
+      "recast": 2.5,
+      "effect": {
+        "type": "damage",
+        "potency": 200,
+      },
+    },
+    "2": {
+      "id": "2",
+      "name": "Fountain",
+      "minLvl": 2,
+      "type": "Weaponskill",
+      "cast": "Instant",
+      "cost": null,
+      "recast": 2.5,
+      "effect": {
+        "type": "damage",
+        "potency": 250,
+      },
+    },
+    "3": {
+      "id": "3",
+      "name": "Reverse Cascade",
+      "minLvl": 1,
+      "type": "Weaponskill",
+      "cast": "Instant",
+      "cost": null,
+      "recast": 2.5,
+      "effect": {
+        "type": "damage",
+        "potency": 200,
+      },
+    },
+    "4": {
+      "id": "4",
+      "name": "Fountainfall",
+      "minLvl": 2,
+      "type": "Weaponskill",
+      "cast": "Instant",
+      "cost": null,
+      "recast": 2.5,
+      "effect": {
+        "type": "damage",
+        "potency": 250,
+      },
+    }
+  }
+}

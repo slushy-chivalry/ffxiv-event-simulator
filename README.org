@@ -1,0 +1,3 @@
+* Combo simulator for FFXIV
+
+[[https://slushy-chivalry.github.io/ffxiv-event-simulator][Docs]]

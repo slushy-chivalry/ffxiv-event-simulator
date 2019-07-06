@@ -1,0 +1,21 @@
+.App {
+
+  .log {
+    list-style-type: none;
+
+    .entry {
+
+      .time {
+        color: #a3a3a3;
+        display: inline-block;
+        min-width: 50px;
+        margin-right: 10px;
+        text-align: right;
+      }
+
+      .label {
+        font-weight: bold;
+      }
+    }
+  }
+}
